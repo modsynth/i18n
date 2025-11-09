@@ -1,0 +1,10 @@
+{
+  "name": "@modsynth/i18n",
+  "version": "0.1.0",
+  "description": "Internationalization module (i18next)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Modsynth Team",
+  "license": "MIT",
+  "peerDependencies": {"react": "^18.0.0", "react-i18next": "^13.0.0", "i18next": "^23.0.0"}
+}

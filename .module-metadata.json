@@ -1,0 +1,1 @@
+{"name": "i18n", "version": "0.1.0", "description": "Internationalization module (i18next)", "type": "library", "language": "typescript", "category": "frontend", "maintainers": [{"name": "Modsynth Team"}], "techStack": ["React", "i18next"]}
